@@ -9,3 +9,4 @@ What have changed this year?
 
 *Note:
 - I've implemented basic microservice to handle and serve predictions, I wanted to make it by flask but I was careful to submit in deadline.
+- The last update for the notebook was in 10/8/2020
